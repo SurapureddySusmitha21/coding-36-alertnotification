@@ -1,0 +1,8 @@
+/* Write your CSS here */
+
+.alert-heading {
+  color: #0f172a;
+  font-size: 55px;
+  font-family: 'Roboto';
+  text-align: center;
+}
